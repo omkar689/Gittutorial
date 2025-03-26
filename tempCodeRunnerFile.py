@@ -1,0 +1,1 @@
+moneyprice = 0
